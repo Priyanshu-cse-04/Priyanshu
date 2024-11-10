@@ -6,7 +6,7 @@ A website that will help students make career decisions based on their careeer i
 
 #Author information
 Priyanshu
-Adiya 
+Aditya 
 Bhumi
 Navya 
   
