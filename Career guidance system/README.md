@@ -4,12 +4,11 @@ Career Guidance
 ## Project description
 A website that will help students make career decisions based on their careeer interests. 
 
-## Author(s) information
-  -Samwel Chege
-  -Brian Karu
-  -Enock Abere
-  -Brian Kirui
-  -Jesse Wainaina
+#Author information
+Priyanshu
+Adiya 
+Bhumi
+Navya 
   
 ## Setup instructions
    To access this project on your local files, you can clone it using these steps
