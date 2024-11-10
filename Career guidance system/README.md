@@ -4,11 +4,11 @@ Career Guidance System
 ## Project description
 A website that will help students make career decisions based on their careeer interests. 
 
-#Author information
--Priyanshu
--Aditya 
--Bhumi
--Navya 
+## Author information
+- Priyanshu
+- Aditya 
+- Bhumi
+- Navya 
 
 
 ​
