@@ -27,9 +27,6 @@ A website that will help students make career decisions based on their careeer i
  - JS
  - Javascript
  - Bootstrap
-  
-## Contact information
-[Email](priyanshumalik47@gmail.com)
     
 ## License and Copyright information
 ​
